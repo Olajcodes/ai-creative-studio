@@ -1,0 +1,28 @@
+# Gesture Library System Settings
+
+paths:
+  gesture_library: "./gesture_library"
+  musetalk: "./MuseTalk"
+  inputs: "./inputs"
+  outputs: "./outputs"
+  temp: "./temp"
+
+musetalk:
+  fps: 25
+  batch_size: 8
+  use_float16: true
+  bbox_shift: 0
+
+audio:
+  sample_rate: 16000
+  format: "wav"
+
+video:
+  resolution: 512
+  fps: 25
+  codec: "h264"
+
+processing:
+  auto_cleanup_temp: false
+  save_intermediate: false
+  verbose: true

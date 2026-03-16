@@ -1,0 +1,37 @@
+[
+  {
+    "time": 0.0,
+    "gesture_id": "welcome",
+    "text": "Hello everyone, welcome to this presentation"
+  },
+  {
+    "time": 4.0,
+    "gesture_id": "explaining",
+    "text": "Today I want to talk about three important points"
+  },
+  {
+    "time": 8.0,
+    "gesture_id": "counting",
+    "text": "First, we need to understand the basics"
+  },
+  {
+    "time": 12.0,
+    "gesture_id": "shake_no",
+    "text": "This approach is not correct"
+  },
+  {
+    "time": 15.0,
+    "gesture_id": "nod_yes",
+    "text": "Instead, this method works much better"
+  },
+  {
+    "time": 19.0,
+    "gesture_id": "excited",
+    "text": "The results are absolutely amazing!"
+  },
+  {
+    "time": 23.0,
+    "gesture_id": "neutral_talking",
+    "text": "Let me explain in more detail"
+  }
+]
